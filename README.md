@@ -6,7 +6,7 @@ Based in São Paulo, Brazil, with 15+ years crafting tailor-made digital product
 
 ## Currently
 
-- 🎨 Designing things at [neryroger.cc](https://neryroger.cc)
+- 🎨 Designing things at [neryroger.works](https://neryroger.works)
 - 🔧 Reverse-engineering my NAS because the official app wasn't good enough
 - 🎵 Hunting for records to add to the collection
 
